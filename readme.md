@@ -14,6 +14,5 @@
 ######1为结果文件全路径
 ######2为订单文件全路径
 ######3为阿姨文件全路径
-#####源码地址https://igit.58corp.com/baojiandong/gamechecker
 ####执行校验程序需要有本地java环境，jdk版本1.6+
 # go_frame_1
